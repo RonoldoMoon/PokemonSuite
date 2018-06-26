@@ -2,7 +2,7 @@ char *Pokemon[190] =
 
   {  "  Rhydon"       ,
      "  Kangaskhan"   ,
-     "  Nidoran(penis)",
+     "  Nidoran|M|"   ,
      "  Clefairy"     ,
      "  Spearow"      ,
      "  Voltorb"      ,
@@ -14,7 +14,7 @@ char *Pokemon[190] =
      "  Exeggute"     ,
      "  Grimer"       ,
      "  Gengar"       ,
-     "  Nidoran(vagina)",
+     "  Nidoran|F|"   ,
      "  Nidoqueen"    ,
      "  Cubone"       ,
      "  Rhyhorn"      ,
